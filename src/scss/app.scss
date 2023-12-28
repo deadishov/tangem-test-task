@@ -1,0 +1,26 @@
+@import './components/banner-top';
+@import './components/banner-bottom';
+
+* {
+  box-sizing: border-box;
+  font-family: system-ui, Roboto, sans-serif;
+}
+
+body {
+  margin: 0;
+  height: 200vh;
+}
+
+a {
+  padding: 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  max-width: 1660px;
+
+  @media (max-width: 1000px) {
+    max-width: 802px;
+  }
+}

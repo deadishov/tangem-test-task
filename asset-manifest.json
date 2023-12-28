@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tangem-test-task/static/css/main.d61a394e.css",
+    "main.js": "/tangem-test-task/static/js/main.d35b9757.js",
+    "static/media/gifts.png": "/tangem-test-task/static/media/gifts.b028114fafc463e03fea.png",
+    "static/media/gifts-top.png": "/tangem-test-task/static/media/gifts-top.ef6224a4c9d94bf5aa7b.png",
+    "index.html": "/tangem-test-task/index.html",
+    "main.d61a394e.css.map": "/tangem-test-task/static/css/main.d61a394e.css.map",
+    "main.d35b9757.js.map": "/tangem-test-task/static/js/main.d35b9757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61a394e.css",
+    "static/js/main.d35b9757.js"
+  ]
+}
